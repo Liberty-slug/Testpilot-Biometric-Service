@@ -1,0 +1,14 @@
+C:\Development\Flutter\biometric_project\biometric_services\biometric_service\bin\Release\net8.0\publish\biometric_service.exe
+C:\Development\Flutter\biometric_project\biometric_services\biometric_service\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Development\Flutter\biometric_project\biometric_services\biometric_service\bin\Release\net8.0\publish\appsettings.json
+C:\Development\Flutter\biometric_project\biometric_services\biometric_service\bin\Release\net8.0\publish\libs\dpfj.dll
+C:\Development\Flutter\biometric_project\biometric_services\biometric_service\bin\Release\net8.0\publish\biometric_service.dll
+C:\Development\Flutter\biometric_project\biometric_services\biometric_service\bin\Release\net8.0\publish\biometric_service.deps.json
+C:\Development\Flutter\biometric_project\biometric_services\biometric_service\bin\Release\net8.0\publish\biometric_service.runtimeconfig.json
+C:\Development\Flutter\biometric_project\biometric_services\biometric_service\bin\Release\net8.0\publish\biometric_service.pdb
+C:\Development\Flutter\biometric_project\biometric_services\biometric_service\bin\Release\net8.0\publish\DnsClient.dll
+C:\Development\Flutter\biometric_project\biometric_services\biometric_service\bin\Release\net8.0\publish\MongoDB.Bson.dll
+C:\Development\Flutter\biometric_project\biometric_services\biometric_service\bin\Release\net8.0\publish\MongoDB.Driver.dll
+C:\Development\Flutter\biometric_project\biometric_services\biometric_service\bin\Release\net8.0\publish\SharpCompress.dll
+C:\Development\Flutter\biometric_project\biometric_services\biometric_service\bin\Release\net8.0\publish\Snappier.dll
+C:\Development\Flutter\biometric_project\biometric_services\biometric_service\bin\Release\net8.0\publish\ZstdSharp.dll
